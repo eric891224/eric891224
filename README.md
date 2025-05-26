@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 useful tool https://github.com/anuraghazra/github-readme-stats
 -->
 
-
+<!--
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric891224)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
